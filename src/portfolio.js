@@ -17,7 +17,7 @@ const greeting = {
     "I'm a young, passionate Data Scientist with a love for space, technology, film, and gaming. Actively looking for work. If you're curious what I can do, you're in the right place."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/18913jYmBY94nB2iPj6qzC6l-6BRkczX4/view?usp=sharing",
+    "https://drive.google.com/file/d/1IH3nZdJCvs9tFF5Ojj_59cId37FHdQ28/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
